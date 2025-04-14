@@ -1,7 +1,7 @@
 # Diploma Survivors - VibeMatch
 
 <p align="center">
-<img src="./assets/images/logo.svg" alt="VibeMatch Logo" width="25%">
+<img src="./assets/images/logo.svg" alt="VibeMatch Logo" width="15%">
 </p>
 
 ## About VibeMatch
