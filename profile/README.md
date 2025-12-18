@@ -1,17 +1,15 @@
-# Diploma Survivors - VibeMatch
+# sfinx OJ
 
-<p align="center">
-<img src="./assets/images/logo.svg" alt="VibeMatch Logo" width="15%">
-</p>
+**sfinx** is an AI-first Online Judge platform that helps developers hone their skills through challenging problems, advanced AI-powered code evaluation, and real-time mock interviews.
 
-## About VibeMatch
+Inspired by the mythical **Sphinx**, the guardian who posed riddles with high stakes: answer correctly and you pass; answer incorrectly and you are devoured.
 
-VibeMatch is a comprehensive recruitment platform connecting talented professionals with employers. Created by Diploma Survivors, we simplify the hiring process through intuitive matching technology.
+**sfinx** acts as a rigorous gatekeeper, delivering tough challenges and impartial assessments to foster elite-level proficiency.
 
 ## Our Team
 
-VibeMatch is proudly developed by Diploma Survivors, a dedicated group of passionate youths who are committed to transforming the recruitment experience.
+**sfinx** is developed by **Diploma Survivors**, a team of dedicated young developers committed to transforming skill development in programming.
 
 ---
 
-_&copy; 2025 VibeMatch. All rights reserved._
+_© 2025 sfinx. All rights reserved._
